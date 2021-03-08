@@ -1,5 +1,10 @@
 # SIR TP 2-4
 
+## Groupe
+- Théo Lévêque
+- Mariem Roussi
+- Mariama Taha
+
 ## Lancer le projet
 1. Changer les configurations de persistance.xml selon la BDD utilisée.
 2. Lancer votre BDD. run-hsqldb-server peut être utilisé pour lancer la BDD et show-hsqldb pour lancer l'explorer. 
